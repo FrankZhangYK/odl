@@ -1,0 +1,6 @@
+repr_string
+============================
+
+.. currentmodule:: odl.util.utility
+
+.. autofunction:: repr_string

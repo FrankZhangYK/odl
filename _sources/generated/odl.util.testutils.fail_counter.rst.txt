@@ -1,0 +1,6 @@
+fail_counter
+===============================
+
+.. currentmodule:: odl.util.testutils
+
+.. autofunction:: fail_counter

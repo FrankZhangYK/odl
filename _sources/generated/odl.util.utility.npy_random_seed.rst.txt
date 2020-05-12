@@ -1,0 +1,6 @@
+npy_random_seed
+================================
+
+.. currentmodule:: odl.util.utility
+
+.. autofunction:: npy_random_seed

@@ -1,0 +1,6 @@
+doubleprox_dc
+=====================================================
+
+.. currentmodule:: odl.solvers.nonsmooth.difference_convex
+
+.. autofunction:: doubleprox_dc

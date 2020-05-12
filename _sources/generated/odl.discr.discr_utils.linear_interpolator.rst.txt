@@ -1,0 +1,6 @@
+linear_interpolator
+=========================================
+
+.. currentmodule:: odl.discr.discr_utils
+
+.. autofunction:: linear_interpolator
